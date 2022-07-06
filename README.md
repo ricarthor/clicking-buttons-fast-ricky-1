@@ -1,4 +1,5 @@
 # clicking-buttons-fast
-Learning the basics of HTML 
+In this repo you will find the necessary materials to work on your Mission 1 and Mission 2. 
 
-[![Run on Repl.it](https://repl.it/badge/github/Miles-In-The-Sky/clicking-buttons-fast)](https://repl.it/github/Miles-In-The-Sky/clicking-buttons-fast)
+## INSTRUCTIONS
+Mission 1 -> go to readme of mission 1
