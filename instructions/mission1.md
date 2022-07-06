@@ -17,6 +17,10 @@ After you get the HTML done we will move to CSS where you'll learn how to style 
 
 In this mission you will find an `index.html` in the root folder. This `index.html` will link to other pages that are inside the folder `WWW` (exactly the same as the original one). During this mission you will have to create your own `.html` files as well as subfolders. 
 
+Quick Intro: 
+* Fork the repo
+* Show until the first step of what students have to do
+
 `todo:` If you are feeling confused, watch this video with a quick intro on how to do the first steps.
 
 1. Fork the repo here to REPL.IT

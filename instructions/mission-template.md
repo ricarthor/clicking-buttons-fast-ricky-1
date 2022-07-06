@@ -6,6 +6,11 @@
 * Where are we going next (*we are learning this so that we can achieve that)
 
 **Steps to complete mission**
+
+Quick Intro Video: 
+* Fork the repo
+* Show until the first step of what students have to do
+
 1. ...
 2. ...
 3. ...
